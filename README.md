@@ -14,5 +14,5 @@ Now you can use the command interpreter to manage AirBnB objects.
 
 ## Contributors
 
-- [Jallah Sumbo]
+-[Jallah Sumbo ](https://github.com/jsumbo) 
 - [Abu ] 
