@@ -1,4 +1,3 @@
-# AirBnB Clone Project
 
 ## Description
 
@@ -10,7 +9,6 @@ This project is the first step in building an AirBnB clone web application. We'r
 2. Go to the project directory.
 3. Run the command interpreter with `python3 console.py`.
 
-Now you can use the command interpreter to manage AirBnB objects.
 
 ## Contributors
 
